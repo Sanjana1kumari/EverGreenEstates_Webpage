@@ -7,7 +7,7 @@ An original editorial-style landing page for a property company, built with vani
 ## Live Demo
 
 <!-- Replace after enabling GitHub Pages -->
-http://127.0.0.1:5500/index.html#collection
+http://127.0.0.1:5500/index.html#top
 
 ## Design Direction
 
