@@ -7,7 +7,7 @@ An original editorial-style landing page for a property company, built with vani
 ## Live Demo
 
 <!-- Replace after enabling GitHub Pages -->
-https://YOUR-USERNAME.github.io/evergreen-landing-page/
+http://127.0.0.1:5500/index.html#collection
 
 ## Design Direction
 
@@ -80,4 +80,4 @@ Open `index.html` in a browser, or use VS Code Live Server. An internet connecti
 
 ## Author
 
-Amit — Internship Task, Day 4
+Sanjana kumari — Internship Task, Day 4
